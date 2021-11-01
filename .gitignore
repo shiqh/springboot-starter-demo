@@ -1,0 +1,14 @@
+.idea
+*.iml
+*.class
+sources.ipr
+sources.iws
+*.log
+# eclipse 生成文件
+.project
+.settings/
+.classpath
+target/
+*.versionsBackup
+bin
+.metadata
